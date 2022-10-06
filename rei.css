@@ -1,0 +1,14 @@
+html {
+    background-image: url(bggudang.jpg);
+}
+
+.contain h1{
+    font-size: 26px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container-head{
+    border: 30px;
+    border-radius: 30px;
+    background-color: rgb(3, 116, 124);
+}
