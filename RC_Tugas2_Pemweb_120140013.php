@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Document</title>
+    <title>Astari Kinanti Putri Rei</title>
     <link rel="stylesheet" href="rei.css">
 </head>
 
